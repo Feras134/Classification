@@ -13,22 +13,11 @@ This project builds a predictive system for detecting the presence of heart dise
 ---
 
 ## Setup / Installation Instructions
-
-1. **Clone the repository or download the files**:
-   ```bash
-   git clone https://github.com/your-username/heart-disease-prediction.git
-   cd heart-disease-prediction
-   ```
-
-2. **Install required Python libraries**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-   Or manually install:
-   ```bash
-   pip install pandas numpy scikit-learn matplotlib seaborn xgboost lightgbm
-   ```
+1. **Ensure that you have jupyter notebook**:
+   - you can download it or use VS code.
+     
+2. **Ensure that you have the necessary libraries (pandas-Numpy-matplotlib-seaborn-scikit-learn-XGBClassifier-LGBMClassifier)**:
+   - Or you can just see the results directly without running cells.
 
 3. **Ensure the dataset file is present**:
    - Place `heart.csv` in the root directory of the project.
@@ -48,8 +37,6 @@ This project builds a predictive system for detecting the presence of heart dise
    - Run all cells sequentially to see preprocessing, model training, evaluation, and result visualizations.
    - Accuracy scores and model comparisons will be shown along with confusion matrices.
 
-3. **Modify or extend**:
-   - You can add new models, try different preprocessing techniques, or experiment with cross-validation strategies.
 
 ---
 
@@ -63,5 +50,5 @@ This project builds a predictive system for detecting the presence of heart dise
 ---
 
 ## Author
-Feras Sa — CSC489 Final Project  
+Feras Alnehabi — CSC489 Final Project  
 King Saud University — Spring 2025
