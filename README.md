@@ -51,4 +51,4 @@ This project builds a predictive system for detecting the presence of heart dise
 
 ## Author
 Feras Alnehabi — CSC489 Final Project  
-King Saud University — Spring 2025
+King Saud University — 2025
