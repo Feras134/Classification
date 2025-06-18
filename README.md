@@ -27,7 +27,7 @@ This project builds a predictive system for detecting the presence of heart dise
 ## Usage Guidelines
 
 1. **Run the Jupyter Notebook**:
-   Launch Jupyter Lab or Notebook and open `CSC489 FINALL.ipynb`.
+   Launch Jupyter Lab or Notebook and open the file.
 
    ```bash
    jupyter notebook
